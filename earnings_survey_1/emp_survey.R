@@ -22,9 +22,9 @@ suppressPackageStartupMessages({
   library(patchwork)
   library(webshot)
   library(ggchicklet)
-  library(ggstream)
+  #library(ggstream)
   library(gtExtras)
-  library(ggpattern)
+  #library(ggpattern)
 })
 
 
